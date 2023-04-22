@@ -10,3 +10,5 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     print("У нас пока нет этого слова... Но мы над этим работаем!")
+
+print('hello')
